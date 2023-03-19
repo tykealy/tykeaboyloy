@@ -1,6 +1,6 @@
 <!--START_SECTION:productive-box-in-readme-->
 ```text
-I'm an early 🐤
+I'm an early 🐤, sometimes error 😕
 
 🌞 Morning    15 commits  ██▉░░░░░░░░░░░░░░░░░░  14.2%
 🌆 Daytime    44 commits  ████████▋░░░░░░░░░░░░  41.5%
