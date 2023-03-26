@@ -2,10 +2,10 @@
 ```text
 I'm a night 🦉
 
-🌞 Morning    22 commits  ███▏░░░░░░░░░░░░░░░░░  15.1%
-🌆 Daytime    50 commits  ███████▏░░░░░░░░░░░░░  34.2%
-🌃 Evening    11 commits  █▌░░░░░░░░░░░░░░░░░░░   7.5%
-🌚 Night      63 commits  █████████░░░░░░░░░░░░  43.2%
+🌞 Morning    22 commits  ███░░░░░░░░░░░░░░░░░░  14.9%
+🌆 Daytime    52 commits  ███████▍░░░░░░░░░░░░░  35.1%
+🌃 Evening    11 commits  █▌░░░░░░░░░░░░░░░░░░░   7.4%
+🌚 Night      63 commits  ████████▉░░░░░░░░░░░░  42.6%
 ```
 <!--END_SECTION:productive-box-in-readme-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tykeaboyloy&count_private=true&theme=vue-dark&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
